@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🌎 From Bogotá, Colombia. 
+
 🔍 I'm a self-taught programmer. 
+
 💻 Currently diving into personal programming projects.
+
 💡 Learning Java with Spring Boot to expand my skill set.
+
 ⭐ I practice freestyle scootering in my free time. 🛴
 
 Welcome to my GitHub, where you can check out my latest projects and follow my coding journey!
