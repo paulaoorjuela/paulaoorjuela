@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 💻 Currently diving into personal programming projects.
 
-💡 Learning React to expand my skill set.
+💡 Learning ionic and Firebase to expand my skill set.
 
 ⭐ I practice freestyle scootering in my free time. 🛴
 
