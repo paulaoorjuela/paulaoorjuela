@@ -1,19 +1,5 @@
-# Hi, I am Paula 👋😎
+# Hi, I'm Paula 👋😎
 
-<!--
-**paulaoorjuela/paulaoorjuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img height="240" src="https://i.pinimg.com/originals/70/4e/f2/704ef2f30564853b5c708ad01a2130f9.gif"  />
 </div>
@@ -48,7 +34,8 @@ Welcome to my GitHub, where you can check out my latest projects and follow my c
 ![](https://github-contributor-stats.vercel.app/api?username=paulaoorjuela&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=paulaoorjuela&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=paulaoorjuela&unique={true|1|on|yes})
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=paulaoorjuela&icon=5&color=9)](https://visitcount.itsvg.in)-->
 
