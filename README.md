@@ -25,8 +25,7 @@ Welcome to my GitHub, where you can check out my latest projects and follow my c
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=paulaoorjuela&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paulaoorjuela&theme=vue-dark&hide_border=true)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaoorjuela&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaoorjuela&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaoorjuela&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
