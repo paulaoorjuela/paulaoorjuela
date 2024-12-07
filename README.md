@@ -37,7 +37,7 @@ Welcome to my GitHub, where you can check out my latest projects and follow my c
 ![](https://github-contributor-stats.vercel.app/api?username=paulaoorjuela&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=paulaoorjuela&unique={true|1|on|yes})
+<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=paulaoorjuela&unique={true|1|on|yes})-->
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=paulaoorjuela&icon=5&color=9)](https://visitcount.itsvg.in)-->
