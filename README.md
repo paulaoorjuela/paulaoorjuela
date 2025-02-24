@@ -31,14 +31,13 @@ Welcome to my GitHub, where you can check out my latest projects and follow my c
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paulaoorjuela&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=paulaoorjuela&limit=5&theme=vue-dark&hide_border=true&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=paulaoorjuela&limit=5&theme=vue-dark&hide_border=true&combine_all_yearly_contributions=true)-->
 
 ---
 <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=paulaoorjuela&unique={true|1|on|yes})-->
-<!--
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=paulaoorjuela&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
