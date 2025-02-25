@@ -27,7 +27,7 @@ Welcome to my GitHub, where you can check out my latest projects and follow my c
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=paulaoorjuela&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulaoorjuela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulaoorjuela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulaoorjuela&radius=16&theme=vue&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
