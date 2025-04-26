@@ -13,7 +13,7 @@
 
 💻 Currently diving into personal programming projects.
 
-💡 Learning ionic and Firebase to expand my skill set.
+💡 Learning Python to expand my skill set.
 
 ⭐ I practice freestyle scootering in my free time. 🛴
 
